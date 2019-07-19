@@ -1,0 +1,15 @@
+
+[package]
+name = "redisgraph"
+version = "0.1.0"
+authors = []
+keywords = ["redis", "database", "redisgraph", "graph"]
+description = "RedisGraph driver for Rust."
+homepage = "https://github.com/RedisGraph/redisgraph-rs"
+repository = "https://github.com/RedisGraph/redisgraph-rs"
+documentation = "https://docs.rs/redisgraph"
+license = "BSD-3-Clause"
+readme = "README.md"
+
+[dependencies]
+redis = "0.10.0"
